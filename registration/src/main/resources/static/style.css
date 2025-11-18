@@ -1,0 +1,13 @@
+:root{font-family:Inter, Arial, sans-serif}
+body{margin:20px;background:#f7f7f8}
+.container{max-width:700px;margin:0 auto;background:#fff;padding:20px;border-radius:8px;box-shadow:0 4px 18px rgba(0,0,0,0.06)}
+h1{margin:0 0 12px}
+label{display:block;margin:10px 0;font-size:14px}
+input{width:100%;padding:10px;border:1px solid #ddd;border-radius:6px}
+.buttons{margin-top:12px;display:flex;gap:8px}
+button{padding:10px 14px;border:none;border-radius:6px;cursor:pointer}
+button[type="submit"]{background:#2563eb;color:#fff}
+button#loadAll{background:#e5e7eb}
+#result{margin-top:20px}
+table{width:100%;border-collapse:collapse}
+th,td{padding:8px;border:1px solid #eee;text-align:left}
